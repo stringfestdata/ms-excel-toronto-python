@@ -1,5 +1,6 @@
 # Resources for Python Excel presentation, MS Excel Toronto 
 
+Follow along: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stringfestdata/ms-excel-toronto-python/HEAD)
 
 ![Meetup cover](images/meetup-cover.png)
 
